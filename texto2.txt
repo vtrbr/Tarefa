@@ -1,0 +1,28 @@
+Se ela for bem atenta, eu prefiro te aconselhar a deixar o trecho um pouco mais completo, porque ela já sinalizou que quer saber quem realizou a pesquisa e onde ela foi realizada. Assim, você demonstra cuidado com o trabalho acadêmico sem deixar o texto exagerado.
+
+Eu faria desta forma:
+
+Escrita
+
+//texto a ser corrigido
+
+
+Em pesquisa realizada por Castellini et al. (2024), com nove profissionais de Recursos Humanos de startups incluídas na lista de 2021 das Melhores Empresas para Trabalhar, foram utilizadas entrevistas semiestruturadas on-line, realizadas por meio da plataforma Google Meet, entre fevereiro e maio de 2022. Os resultados indicaram que uma marca empregadora forte, capaz de transmitir a cultura, os valores e o propósito da organização, contribui para atrair candidatos alinhados à empresa e favorecer a permanência dos colaboradores.
+
+
+//comentario do chat
+
+
+Por que essa versão é mais segura?
+
+Identifica os autores por meio da citação.
+
+Informa quem participou da pesquisa.
+
+Explica como e quando os dados foram coletados.
+
+Mantém o texto objetivo e com linguagem acadêmica.
+
+Mas tem um detalhe importante: o Google Meet é a plataforma utilizada para as entrevistas, não a localização geográfica da pesquisa. Como não temos confirmação segura do país ou da cidade onde as startups estavam situadas, não devemos inventar essa informação.
+
+Se a professora estiver cobrando especificamente o local geográfico, o ideal é conferir a seção de metodologia do artigo original antes de entregar.
