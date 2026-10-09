@@ -10,6 +10,9 @@ Em pesquisa realizada por Castellini et al. (2024), foram entrevistados nove pro
 
 Em pesquisa realizada por Castellini et al. (2024), com nove profissionais de Recursos Humanos de startups incluídas na lista de 2021 das Melhores Empresas para Trabalhar, por meio de entrevistas semiestruturadas on-line, constatou-se que uma marca empregadora forte, capaz de transmitir a cultura, os valores e o propósito da organização, contribui para atrair candidatos alinhados à empresa e favorecer a permanência dos colaboradores.
 
+
+//comentario do chat
+
 Por que recomendo essa versão?
 
 Atende à observação da professora, esclarecendo quem realizou a pesquisa e com quem ela foi feita.
