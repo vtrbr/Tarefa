@@ -3,3 +3,21 @@ https://www.periodicos.ufes.br/ppgadm/pt_BR/article/view/42109
 
 
 Em pesquisa realizada por Castellini et al. (2024), foram entrevistados nove profissionais de Recursos Humanos que atuavam em startups de diferentes segmentos, incluídas na lista de 2021 das Melhores Empresas para Trabalhar. A coleta de dados ocorreu entre fevereiro e maio de 2022, por meio de entrevistas semiestruturadas on-line, realizadas pela plataforma Google Meet. Os resultados apontaram que uma marca empregadora forte, capaz de transmitir a cultura, os valores e o propósito da organização, contribui para atrair candidatos alinhados à empresa e favorecer a permanência dos colaboradores.
+
+
+
+//versao 2 da abnt
+
+Em pesquisa realizada por Castellini et al. (2024), com nove profissionais de Recursos Humanos de startups incluídas na lista de 2021 das Melhores Empresas para Trabalhar, por meio de entrevistas semiestruturadas on-line, constatou-se que uma marca empregadora forte, capaz de transmitir a cultura, os valores e o propósito da organização, contribui para atrair candidatos alinhados à empresa e favorecer a permanência dos colaboradores.
+
+Por que recomendo essa versão?
+
+Atende à observação da professora, esclarecendo quem realizou a pesquisa e com quem ela foi feita.
+
+Mantém uma linguagem formal e adequada ao TCC.
+
+Apresenta a metodologia de forma resumida, sem deixar o texto excessivamente detalhado.
+
+Mantém a citação no sistema autor-data, conforme a ABNT NBR 10520:2023.
+
+Só um cuidado: se a professora quis saber especificamente em que lugar a pesquisa foi realizada, vale confirmar se ela se refere ao local geográfico ou ao contexto da pesquisa. Como as entrevistas foram on-line, não é necessário inventar uma cidade ou um estado.
